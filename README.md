@@ -59,7 +59,6 @@
   
 
 </p>
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="néstor-almalé-7a34b0254" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/n%C3%A9stor-almal%C3%A9-7a34b0254?trk=profile-badge">Néstor Almalé</a></div>
               
 ## Contact
 
