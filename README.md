@@ -4,7 +4,7 @@
 
 ## About me
               
-- 👨‍💻 Software developer student.
+- 👨‍💻 Software development student.
 - 🌐 Passionate about technology and application development.
 - 🧠 Latest concepts in learning: .Net, Python and Azure
 - 🔭 Currently studying DAM at CESUR Zaragoza
