@@ -56,7 +56,10 @@
   <a href="https://azure.microsoft.com/es-es" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" width="40" height="40"/>
   </a>
-  
+
+  <a href="https://www.microsoft.com/es-es/sql-server/sql-server-2022" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="azure" width="40" height="40"/>
+  </a>
 
 </p>
               
