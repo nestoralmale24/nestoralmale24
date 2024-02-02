@@ -64,7 +64,7 @@
 
 If you want to contact me, you can find me on the following social networks and platforms:
 
-- <a href="https://www.linkedin.com/in/nestoralmale24/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" style="max-width: 100%;">
+- <a href="https://www.linkedin.com/in/nestoralmale24/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" style="max-width: 100%;">
 </a>
 
 - Send me an email to [nestordic2004@gmail.com](mailto:nestordic2004@gmail.com)
