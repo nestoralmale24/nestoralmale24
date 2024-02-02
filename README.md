@@ -3,7 +3,6 @@
 ¡Hello! I'm Néstor, passionate student about programming, software development, and technology. Constantly learning and committed to the collective growth of the community. Explore my projects in my repository and connect to collaborate on new opportunities. 🚀
 
 ## About me
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
               
 - 👨‍💻 Software developer student.
 - 🌐 Passionate about technology and application development.
