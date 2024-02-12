@@ -6,7 +6,7 @@
               
 - 👨‍💻 Software development student.
 - 🌐 Passionate about technology and application development.
-- 🧠 Latest concepts in learning: .Net, Python and Azure
+- 🧠 Latest concepts in learning: kotlin, Python and Azure
 - 🔭 Currently studying DAM at CESUR Zaragoza
 - 📚 Learning and constantly improving knowledge and skills.
 
