@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Néstor
+Hi I'm Néstor ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 ======================================================================================================================================
 ¡Hello! I'm Néstor, passionate student about programming, software development, and technology. Constantly learning and committed to the collective growth of the community. Explore my projects in my repository and connect to collaborate on new opportunities. 🚀
 
