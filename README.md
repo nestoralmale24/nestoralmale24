@@ -10,10 +10,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🔭 Currently studying DAM at CESUR Zaragoza
 - 📚 Learning and constantly improving knowledge and skills.
 
-<a href="https://www.github.com/nestoralmale24" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/nestoralmale24?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nestoralmale24&label=Profile%20views&color=0e75b6&style=flat" alt="nestoralmale24" /> </p>
-
 ### Languages and Tools:
 <p align="left">
   
