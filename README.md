@@ -74,7 +74,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/nestoralmale24" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nestoralmale24&repo=Dipayan&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/nestoralmale24" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nestoralmale24&repo=Sandesh&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />           
+<div width="100%" align="center"><a href="https://github.com/nestoralmale24/angular-nst " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nestoralmale24&repo=Dipayan&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/nestoralmale24" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nestoralmale24&repo=Sandesh&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />           
 
 ### Contact
 If you want to contact me, you can find me on the following social networks:
