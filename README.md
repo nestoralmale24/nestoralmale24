@@ -6,7 +6,7 @@ Hi I'm Néstor ![](https://user-images.githubusercontent.com/18350557/176309783-
               
 - 👨‍💻 Software development student.
 - 🌐 Passionate about technology and application development.
-- 🧠 Latest concepts in learning: kotlin, Python and Azure
+- 🧠 Latest concepts in learning: kotlin and Angular
 - 🔭 Currently studying DAM at CESUR Zaragoza
 - 📚 Learning and constantly improving knowledge and skills.
 
