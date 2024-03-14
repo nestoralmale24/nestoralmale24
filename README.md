@@ -63,13 +63,13 @@ Hi I'm Néstor ![](https://user-images.githubusercontent.com/18350557/176309783-
 
 </p>
 
-<!--<a href="https://github.com/nestoralmale24" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestoralmale24&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
-
 ### Contact
 If you want to contact me, you can find me on the following social networks:
 
-- <a href="https://www.linkedin.com/in/nestoralmale24/" target="_blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" style="max-width: 100%;">
+- <a href="https://www.linkedin.com/in/nestoralmale24/" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" style="max-width: 100%;">
 </a>
+
 
 - Send me an email to [nestordic2004@gmail.com](mailto:nestordic2004@gmail.com)
   
