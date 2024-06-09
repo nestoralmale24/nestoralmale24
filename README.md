@@ -36,8 +36,8 @@ Hi I'm Néstor ![](https://user-images.githubusercontent.com/18350557/176309783-
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://www.sourcetreeapp.com/" target="_blank" rel="noreferrer">
+    <img src="https://imgs.search.brave.com/isVH6pfAjggJKcI8el55jcE1kIvM5wHHk0MIRAWuCBA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9zb3VyY2V0/cmVlLW9yaWdpbmFs/LXdvcmRtYXJrLWlj/b24tMjU2eDI0NC01/YjVzeDVlOC5wbmc" alt="sourcetree" width="40" height="40"/>
   </a>
   
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -47,16 +47,8 @@ Hi I'm Néstor ![](https://user-images.githubusercontent.com/18350557/176309783-
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
-  
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  </a>
-  
-  <a href="https://azure.microsoft.com/es-es" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" width="40" height="40"/>
-  </a>
 
-  <a href="https://www.microsoft.com/es-es/sql-server/sql-server-2022" target="_blank" rel="noreferrer">
+  <a href="https://angular.dev/" target="_blank" rel="noreferrer">
     <img src="https://imgs.search.brave.com/rZ7zt_05-g-71rnfVm1qSW1y-30joalrygm6DdtpGQ4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jb3J5/cnlsYW4uY29tL2Fz/c2V0cy9pbWFnZXMv/cG9zdHMvdHlwZXMv/YW5ndWxhci5zdmc_/dj0y.svg" alt="angular" width="40" height="40"/>
   </a>
 
