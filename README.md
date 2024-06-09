@@ -57,7 +57,7 @@ Hi I'm Néstor ![](https://user-images.githubusercontent.com/18350557/176309783-
   </a>
 
   <a href="https://www.microsoft.com/es-es/sql-server/sql-server-2022" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="azure" width="40" height="40"/>
+    <img src="https://coryrylan.com/blog/angular-progress-component-with-svg" alt="angular" width="40" height="40"/>
   </a>
 
 </p>
