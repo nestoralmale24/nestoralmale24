@@ -50,7 +50,7 @@ Hi I'm Néstor ![](https://user-images.githubusercontent.com/18350557/176309783-
   </a>
 
   <a href="https://angular.dev/" target="_blank" rel="noreferrer">
-    <img src="https://imgs.search.brave.com/rZ7zt_05-g-71rnfVm1qSW1y-30joalrygm6DdtpGQ4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jb3J5/cnlsYW4uY29tL2Fz/c2V0cy9pbWFnZXMv/cG9zdHMvdHlwZXMv/YW5ndWxhci5zdmc_/dj0y.svg" alt="angular" width="40" height="40"/>
+    <img src="https://imgs.search.brave.com/Q7aY04sRFp92t-jlv7-Ew0JHYgvqyJXSuD6oXaUkUsI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NmL0FuZ3VsYXJf/ZnVsbF9jb2xvcl9s/b2dvLnN2Zw" alt="angular" width="40" height="40"/>
   </a>
 
 </p>
