@@ -21,8 +21,8 @@ Hi I'm Néstor ![](https://user-images.githubusercontent.com/18350557/176309783-
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/353929/jenkins.svg" alt="jenkins" width="40" height="40"/>
   </a>
   
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
