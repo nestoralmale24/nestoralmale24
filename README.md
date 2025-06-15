@@ -37,8 +37,8 @@ Hi I'm Néstor ![](https://user-images.githubusercontent.com/18350557/176309783-
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   
-  <a href="https://www.sourcetreeapp.com/" target="_blank" rel="noreferrer">
-    <img src="https://imgs.search.brave.com/isVH6pfAjggJKcI8el55jcE1kIvM5wHHk0MIRAWuCBA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9zb3VyY2V0/cmVlLW9yaWdpbmFs/LXdvcmRtYXJrLWlj/b24tMjU2eDI0NC01/YjVzeDVlOC5wbmc" alt="sourcetree" width="40" height="40"/>
+  <a href="https://www.oracle.com/es/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="oracle" width="40" height="40"/>
   </a>
   
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
