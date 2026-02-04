@@ -4,7 +4,7 @@ Hi I'm Néstor ![](https://user-images.githubusercontent.com/18350557/176309783-
 
 ## About me
               
-- 👨‍💻 Working as Junior Full Stack Developer.
+- 👨‍💻 Working as Mid Full Stack Developer.
 - 🌐 Passionate about technology and application development.
 - 🧠 Main languages: Angular, Java, SQL.
 - 📲 Main technologies and methodologies: Spring Boot, Hibernate, JPA, Scrum.
