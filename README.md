@@ -49,10 +49,6 @@ Hi I'm Néstor ![](https://user-images.githubusercontent.com/18350557/176309783-
     <img src="https://imgs.search.brave.com/dZ3iycsik4jdA9o01JT9LNxg4eG34pA1wjRwtoLyL-U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuY2RubG9nby5j/b20vbG9nb3MvaC8y/OS9oaWJlcm5hdGUu/c3Zn" alt="hibernate" width="40" height="40"/>
   </a>
 
-  <a href="https://angular.dev/" target="_blank" rel="noreferrer">
-    <img src="https://imgs.search.brave.com/Q7aY04sRFp92t-jlv7-Ew0JHYgvqyJXSuD6oXaUkUsI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NmL0FuZ3VsYXJf/ZnVsbF9jb2xvcl9s/b2dvLnN2Zw" alt="angular" width="40" height="40"/>
-  </a>
-
 </p>
 
 ### Contact
