@@ -63,6 +63,6 @@ If you want to contact me, you can find me on the following social networks:
 </a>
 
 
-- Send me an email to [nst.digitaldev@gmail.com](mailto:nst.digitaldev@gmail.com)
+- Send me an email to [nst.digitaldev@gmail.com](mailto:nestordic2004@gmail.com)
   
 ¡Thank you!
