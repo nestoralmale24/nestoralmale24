@@ -1,13 +1,13 @@
 Hi I'm Néstor ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 ======================================================================================================================================
-¡Hello! I'm Néstor, passionate about programming, software development, and technology. Constantly learning and committed to the collective growth of the community. Explore my projects in my repository and connect to collaborate on new opportunities. 🚀
+¡Hello! I'm Néstor, Software Engineer with over 2 years of experience in Java (v6-21) & Angular (v15). Currently focusing my career on the intersection of Software Engineering, Big Data, and AI.In my current role in the banking sector, I leverage AI-powered tools to streamline and automate the migration of legacy systems to modern microservices. 🚀
 
 ## About me
               
-- 👨‍💻 Working as Mid Full Stack Developer.
+- 👨‍💻 Working as Software Engineer with microservices.
 - 🌐 Passionate about technology and application development.
 - 🧠 Main languages: Angular, Java, SQL.
-- 📲 Main technologies and methodologies: Spring Boot, Hibernate, JPA, Scrum.
+- 📲 Main technologies and methodologies: Spring Boot, Claude Code.
 - 📚 Learning and constantly improving knowledge and skills.
 
 ### Languages and Tools:
