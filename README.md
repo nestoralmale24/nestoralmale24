@@ -16,7 +16,6 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Hiberus-Software%20Developer-E5004C?style=flat-square" alt="Hiberus"/>
-<img src="https://img.shields.io/badge/Sector-Banking-1F2937?style=flat-square" alt="Banking"/>
 <img src="https://img.shields.io/badge/Location-Zaragoza%2C%20Spain-C60B1E?style=flat-square&logo=googlemaps&logoColor=white" alt="Zaragoza"/>
 <img src="https://img.shields.io/badge/Experience-2%2B%20years-2EA44F?style=flat-square" alt="Experience"/>
 
@@ -28,7 +27,7 @@
 
 Software developer with **2+ years of experience** specializing in **Java and Spring Boot**, currently focusing my career on **architecture, Python, Big Data and AI**.
 
-In my current role at **Hiberus** (banking sector), I use **Python scripts and AI-powered workflows** to streamline and automate the migration of monoliths to modern, scalable **Java microservices** architectures.
+In my current role at **Hiberus**, I use **Python scripts and AI-powered workflows** to streamline and automate the migration of monoliths to modern, scalable **Java microservices** architectures.
 
 My focus: applying Python and AI tools to **intelligent code refactoring** and **unit-test automation**, combining architectural best practices with Big Data and AI workflows.
 
@@ -62,7 +61,6 @@ My focus: applying Python and AI tools to **intelligent code refactoring** and *
 
 **AI-assisted development**
 
-<a href="https://www.anthropic.com/"><img src="https://nestoralmale24.github.io/assets/img/claude.webp" alt="Claude" width="52" height="52"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
 <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
 <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6C47FF?style=for-the-badge" alt="MCP"/>
@@ -100,19 +98,6 @@ My focus: applying Python and AI tools to **intelligent code refactoring** and *
 
 ---
 
-## 📈 GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nestoralmale24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestoralmale24&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com/?user=nestoralmale24&theme=tokyonight&hide_border=true" alt="Streak"/>
-
-</div>
-
----
-
 ## 📬 Let's connect
 
 I'm always happy to talk about **microservices, AI-assisted development and legacy modernization**.
@@ -123,8 +108,6 @@ I'm always happy to talk about **microservices, AI-assisted development and lega
 <a href="mailto:nestordic2004@gmail.com"><img src="https://img.shields.io/badge/Send%20me-an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=nestoralmale24&style=flat-square&color=36BCF7&label=Profile+views" alt="Profile views"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=120&section=footer" alt="Footer"/>
 
