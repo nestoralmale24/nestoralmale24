@@ -1,60 +1,131 @@
-Hi I'm Néstor ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-======================================================================================================================================
-¡Hello! I'm Néstor, Software Engineer with over 2 years of experience in Java (v6-21) & Angular (v15). Currently focusing my career on the intersection of Software Engineering, Big Data, and AI.In my current role in the banking sector, I leverage AI-powered tools to streamline and automate the migration of legacy systems to modern microservices. 🚀
+<!-- ============ HEADER ============ -->
+<div align="center">
 
-## About me
-              
-- 👨‍💻 Working as Software Engineer with microservices.
-- 🌐 Passionate about technology and application development.
-- 🧠 Main languages: Angular, Java, SQL.
-- 📲 Main technologies and methodologies: Spring Boot, Claude Code.
-- 📚 Learning and constantly improving knowledge and skills.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=200&section=header&text=N%C3%A9stor%20Almal%C3%A9%20Bayona&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Solutions%20Software%20Developer&descSize=20&descAlignY=58" alt="Header"/>
 
-### Languages and Tools:
-<p align="left">
-  
-  <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer">
-    <img src="https://nestoralmale24.github.io/assets/img/claude.webp" alt="css" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/353929/jenkins.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.oracle.com/es/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  
-  <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
-    <img src="https://imgs.search.brave.com/dZ3iycsik4jdA9o01JT9LNxg4eG34pA1wjRwtoLyL-U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuY2RubG9nby5j/b20vbG9nb3MvaC8y/OS9oaWJlcm5hdGUu/c3Zn" alt="hibernate" width="40" height="40"/>
-  </a>
-
-</p>
-
-### Contact
-If you want to contact me, you can find me on the following social networks:
-
-- <a href="https://www.linkedin.com/in/nestoralmale24/" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" style="max-width: 100%;">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+%26+Spring+Boot+Microservices;Python+%2B+Generative+AI+workflows;Legacy+monolith+%E2%86%92+modern+microservices;AI-assisted+refactoring+%26+unit+testing;Big+Data+%C3%97+Software+Engineering" alt="Typing SVG" />
 </a>
 
+<br/>
 
-- Send me an email to [nestordic2004@gmail.com](mailto:nestordic2004@gmail.com)
-  
-¡Thank you!
+<a href="https://www.linkedin.com/in/nestoralmale24/"><img src="https://img.shields.io/badge/LinkedIn-N%C3%A9stor%20Almal%C3%A9-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:nestordic2004@gmail.com"><img src="https://img.shields.io/badge/Email-nestordic2004@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://nestoralmale24.github.io"><img src="https://img.shields.io/badge/Portfolio-nestoralmale24.github.io-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Hiberus-Software%20Developer-E5004C?style=flat-square" alt="Hiberus"/>
+<img src="https://img.shields.io/badge/Sector-Banking-1F2937?style=flat-square" alt="Banking"/>
+<img src="https://img.shields.io/badge/Location-Zaragoza%2C%20Spain-C60B1E?style=flat-square&logo=googlemaps&logoColor=white" alt="Zaragoza"/>
+<img src="https://img.shields.io/badge/Experience-2%2B%20years-2EA44F?style=flat-square" alt="Experience"/>
+
+</div>
+
+---
+
+## 👋 About me
+
+Software developer with **2+ years of experience** specializing in **Java and Spring Boot**, currently focusing my career on **architecture, Python, Big Data and AI**.
+
+In my current role at **Hiberus** (banking sector), I use **Python scripts and AI-powered workflows** to streamline and automate the migration of monoliths to modern, scalable **Java microservices** architectures.
+
+My focus: applying Python and AI tools to **intelligent code refactoring** and **unit-test automation**, combining architectural best practices with Big Data and AI workflows.
+
+> 🚀 *Accelerating legacy-system migrations with Generative AI: code refactoring, business-logic modernization and automated unit testing.*
+
+---
+
+## 🛠️ Tech stack
+
+<div align="center">
+
+**Languages & frameworks**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="52" height="52"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="52" height="52"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="52" height="52"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="52" height="52"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="Hibernate" width="52" height="52"/>
+
+**Databases**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="52" height="52"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="52" height="52"/>
+
+**DevOps & tools**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="52" height="52"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="52" height="52"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="52" height="52"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="52" height="52"/>
+
+**AI-assisted development**
+
+<a href="https://www.anthropic.com/"><img src="https://nestoralmale24.github.io/assets/img/claude.webp" alt="Claude" width="52" height="52"/></a>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+<img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6C47FF?style=for-the-badge" alt="MCP"/>
+
+</div>
+
+---
+
+## 🧭 What I do
+
+| | |
+|---|---|
+| 🏗️ **Architecture** | Migrating monoliths to scalable Java microservices |
+| 🤖 **AI workflows** | Python + Generative AI for refactoring and business-logic modernization |
+| 🧪 **Testing** | Automated unit-test generation with AI assistance |
+| 📊 **Big Data** | Combining architectural best practices with Big Data and AI pipelines |
+
+---
+
+## 🎓 Certifications
+
+<div align="center">
+
+<a href="https://verify.skilljar.com/c/rqpo78rz9gee"><img src="https://img.shields.io/badge/Anthropic-Model%20Context%20Protocol%3A%20Advanced%20Topics-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP Advanced Topics"/></a>
+<a href="https://verify.skilljar.com/c/4j3kgzim5gtk"><img src="https://img.shields.io/badge/Anthropic-Claude%20Code%20in%20Action-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code in Action"/></a>
+<a href="https://verify.skilljar.com/c/wwackuab3hss"><img src="https://img.shields.io/badge/Anthropic-Building%20with%20the%20Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Building with the Claude API"/></a>
+
+<img src="https://img.shields.io/badge/GitHub%20Copilot-Hiberus-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+<img src="https://img.shields.io/badge/Java%20SE%2017-Developer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java SE 17"/>
+<img src="https://img.shields.io/badge/Certified-Scrum%20Product%20Owner-00A3E0?style=for-the-badge" alt="CSPO"/>
+<img src="https://img.shields.io/badge/Agile-Scrum%20Master-00A3E0?style=for-the-badge" alt="Scrum Master"/>
+<img src="https://img.shields.io/badge/English-B2%20Trinity%20College-C8102E?style=for-the-badge" alt="English B2"/>
+
+</div>
+
+---
+
+## 📈 GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nestoralmale24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestoralmale24&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com/?user=nestoralmale24&theme=tokyonight&hide_border=true" alt="Streak"/>
+
+</div>
+
+---
+
+## 📬 Let's connect
+
+I'm always happy to talk about **microservices, AI-assisted development and legacy modernization**.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/nestoralmale24/"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:nestordic2004@gmail.com"><img src="https://img.shields.io/badge/Send%20me-an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=nestoralmale24&style=flat-square&color=36BCF7&label=Profile+views" alt="Profile views"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=120&section=footer" alt="Footer"/>
+
+</div>
